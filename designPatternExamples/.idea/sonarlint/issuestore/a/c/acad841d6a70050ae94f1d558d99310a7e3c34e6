@@ -1,0 +1,8 @@
+
+"squid:ClassVariableVisibilityCheck"TMake baseSize a static final constant or non-public and provide accessors if needed.(Ñ¨º›ùÿÿÿÿ8ë¿ç×É-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÑöì
+‹"squid:ClassVariableVisibilityCheck"QMake isVeg a static final constant or non-public and provide accessors if needed.(Ò³ÓÊüÿÿÿÿ8ë¿ç×É-
+"squid:ClassVariableVisibilityCheck"UMake crustType a static final constant or non-public and provide accessors if needed.(…µÏıÿÿÿÿ8øç×É-
+"squid:ClassVariableVisibilityCheck"UMake pizzaType a static final constant or non-public and provide accessors if needed.(ßúÖ½şÿÿÿÿ8‘Œç×É-
+’"squid:ClassVariableVisibilityCheck"XMake extraTopping a static final constant or non-public and provide accessors if needed.(»®¾æøÿÿÿÿ8øç×É-
+›"squid:ClassVariableVisibilityCheck"aMake isExtraCheeseRequired a static final constant or non-public and provide accessors if needed.(¡İššûÿÿÿÿ8øç×É-

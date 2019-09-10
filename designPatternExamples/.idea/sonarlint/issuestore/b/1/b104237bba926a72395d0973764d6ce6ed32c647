@@ -1,0 +1,7 @@
+
+asquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+isquid:S2975""SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Õ‚t
+Xsquid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÕ°­
+^squid:S1182""HUse super.clone() to create and seed the cloned instance to be returned.(Õ‚t
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
